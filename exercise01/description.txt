@@ -1,0 +1,7 @@
+Monitor the Battery Level and Charging State
+In your homework you should check battery level continually by using 
+broadcast receiver, when battery level become low or <10% you should 
+alert user by showing notification and alert dialog that tell him to 
+plug- in the charger.
+Hint: you can refer to below link to know how get battery info
+https://developer.android.com/training/monitoring-devicestate/battery-monitoring
