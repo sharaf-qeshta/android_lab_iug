@@ -1,148 +1,119 @@
 [
   {
     "name": "Small Jeans",
-    "photo_url": "https://finepointmobile.com/data/jeans1.jpg",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
-    "price": 29.49,
-    
+    "photo_url": "https://m.media-amazon.com/images/I/713V+hdH3nL._AC_UX679_.jpg",
+    "price": 29.49,    
   },
   {
     "name": "Black Shirt",
-    "photo_url": "https://finepointmobile.com/data/jeans2.jpg",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
+    "photo_url": "https://media.gq.com/photos/5b730e66a43a8230e443e53b/master/w_2000,h_1333,c_limit/john-elliott-black-tshirt.jpg",
     "price": 19.49,
   },
   {
     "name": "Red Jeans",
-    "photo_url": "https://finepointmobile.com/data/jeans3.jpg",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
+    "photo_url": "https://n4.sdlcdn.com/imgs/g/i/b/Levi-s-Boys-Red-Jeans-SDL624969608-1-f0f92.jpg",
     "price": 24.49,
   },
   {
     "name": "Yellow Shirt",
-    "photo_url": "https://finepointmobile.com/data/jeans4.jpg",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
+    "photo_url": "https://images-na.ssl-images-amazon.com/images/I/51ABxi6WxgL._AC_UL1200_.jpg",
     "price": 2.99,
   },
   {
     "name": "Blue Shirt",
-    "photo_url": "https://finepointmobile.com/data/jeans1.jpg",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
+    "photo_url": "https://m.media-amazon.com/images/I/51D8vCzrE5L._AC_UX385_.jpg",
     "price": 12.34,
- 
   },
   {
     "name": "Red Shirt",
-    "photo_url": "https://finepointmobile.com/data/jeans2.jpg",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
+    "photo_url": "https://m.media-amazon.com/images/I/51sdIP8NCjL._AC_UL1000_.jpg",
     "price": 42.23
   },
   {
     "name": "Yellow Dress Shirt",
-    "photo_url": "https://finepointmobile.com/data/jeans3.jpg",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
+    "photo_url": "https://m.media-amazon.com/images/I/61qSLm8liKL._AC_UX385_.jpg",
     "price": 29.99,
   },
   {
     "name": "Small Jeans",
-    "photo_url": "https://finepointmobile.com/data/jeans1.jpg",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
+    "photo_url": "https://m.media-amazon.com/images/I/713V+hdH3nL._AC_UX679_.jpg",
     "price": 29.49,
   },
   {
     "name": "Black Shirt",
-    "photo_url": "https://finepointmobile.com/data/jeans2.jpg",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
+    "photo_url": "https://media.gq.com/photos/5b730e66a43a8230e443e53b/master/w_2000,h_1333,c_limit/john-elliott-black-tshirt.jpg",
     "price": 19.49,
-
   },
   {
     "name": "Red Jeans",
-    "photo_url": "https://finepointmobile.com/data/jeans3.jpg",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
+    "photo_url": "https://n4.sdlcdn.com/imgs/g/i/b/Levi-s-Boys-Red-Jeans-SDL624969608-1-f0f92.jpg",
     "price": 24.49,
-
   },
   {
     "name": "Yellow Shirt",
-    "photo_url": "https://finepointmobile.com/data/jeans4.jpg",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
+    "photo_url": "https://images-na.ssl-images-amazon.com/images/I/51ABxi6WxgL._AC_UL1200_.jpg",
     "price": 2.99,
-
   },
   {
     "name": "Blue Shirt",
-    "photo_url": "https://finepointmobile.com/data/jeans1.jpg",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
+    "photo_url": "https://m.media-amazon.com/images/I/51D8vCzrE5L._AC_UX385_.jpg",
     "price": 12.34,
-
   },
   {
     "name": "Red Shirt",
-    "photo_url": "https://finepointmobile.com/data/jeans2.jpg",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
+    "photo_url": "https://m.media-amazon.com/images/I/51sdIP8NCjL._AC_UL1000_.jpg",
     "price": 42.23
   },
   {
     "name": "Yellow Dress Shirt",
-    "photo_url": "https://finepointmobile.com/data/jeans3.jpg",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
+    "photo_url": "https://m.media-amazon.com/images/I/61qSLm8liKL._AC_UX385_.jpg",
     "price": 29.99,
- 
   },
   {
     "name": "Small Jeans",
-    "photo_url": "https://finepointmobile.com/data/jeans1.jpg",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
+    "photo_url": "https://m.media-amazon.com/images/I/713V+hdH3nL._AC_UX679_.jpg",
     "price": 29.49,
 
   },
   {
     "name": "Black Shirt",
-    "photo_url": "https://finepointmobile.com/data/jeans2.jpg",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
+    "photo_url": "https://media.gq.com/photos/5b730e66a43a8230e443e53b/master/w_2000,h_1333,c_limit/john-elliott-black-tshirt.jpg",
     "price": 19.49,
 
   },
   {
     "name": "Red Jeans",
-    "photo_url": "https://finepointmobile.com/data/jeans3.jpg",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
+    "photo_url": "https://media.gq.com/photos/5b730e66a43a8230e443e53b/master/w_2000,h_1333,c_limit/john-elliott-black-tshirt.jpg",
     "price": 24.49,
 
   },
   {
     "name": "Yellow Shirt",
-    "photo_url": "https://finepointmobile.com/data/jeans4.jpg",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
+    "photo_url": "https://media.gq.com/photos/5b730e66a43a8230e443e53b/master/w_2000,h_1333,c_limit/john-elliott-black-tshirt.jpg",
     "price": 2.99,
 
   },
   {
     "name": "Blue Shirt",
-    "photo_url": "https://finepointmobile.com/data/jeans1.jpg",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
+    "photo_url": "https://media.gq.com/photos/5b730e66a43a8230e443e53b/master/w_2000,h_1333,c_limit/john-elliott-black-tshirt.jpg",
     "price": 12.34,
   
   },
   {
     "name": "Red Shirt",
-    "photo_url": "https://finepointmobile.com/data/jeans2.jpg",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
+    "photo_url": "https://media.gq.com/photos/5b730e66a43a8230e443e53b/master/w_2000,h_1333,c_limit/john-elliott-black-tshirt.jpg",
     "price": 12.34,
 
   },
   {
     "name": "Yellow Dress Shirt",
-    "photo_url": "https://finepointmobile.com/data/jeans3.jpg",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
+    "photo_url": "https://media.gq.com/photos/5b730e66a43a8230e443e53b/master/w_2000,h_1333,c_limit/john-elliott-black-tshirt.jpg",
     "price": 29.99,
     
   },
   {
     "name": "Khani Jeans",
-    "photo_url": "https://finepointmobile.com/data/jeans4.jpg",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
+    "photo_url": "https://media.gq.com/photos/5b730e66a43a8230e443e53b/master/w_2000,h_1333,c_limit/john-elliott-black-tshirt.jpg",
     "price": 9.95,
    
   }
