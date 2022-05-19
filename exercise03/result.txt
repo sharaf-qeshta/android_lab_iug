@@ -1,0 +1,302 @@
+2022-05-19 04:31:23.990 8763-8763/com.example.myapplication E/data_status: true
+2022-05-19 04:31:23.990 8763-8763/com.example.myapplication E/data_message: The Operating is done
+2022-05-19 04:31:23.990 8763-8763/com.example.myapplication E/data_products_count: 8553
+
+
+2022-05-19 04:31:23.990 8763-8763/com.example.myapplication E/data_product1_start: ********************************************
+2022-05-19 04:31:23.990 8763-8763/com.example.myapplication E/data_product1_id: 6
+2022-05-19 04:31:23.990 8763-8763/com.example.myapplication E/data_product1_name: humous
+2022-05-19 04:31:23.990 8763-8763/com.example.myapplication E/data_product1_arabic_name: حمص
+2022-05-19 04:31:23.990 8763-8763/com.example.myapplication E/data_product1_english_name: humous
+2022-05-19 04:31:23.990 8763-8763/com.example.myapplication E/data_product1_description: humous
+2022-05-19 04:31:23.990 8763-8763/com.example.myapplication E/data_product1_arabic_description: حمص
+2022-05-19 04:31:23.990 8763-8763/com.example.myapplication E/data_product1_english_description: humous
+2022-05-19 04:31:23.991 8763-8763/com.example.myapplication E/data_product1_image_url: https://saree3.net/uploads/products/K2an7NJeAjT8OledHiHg1580992091zFbRYdkn1eAhAA6wIf8w.jpg
+2022-05-19 04:31:23.991 8763-8763/com.example.myapplication E/data_product1_price: 1
+2022-05-19 04:31:23.991 8763-8763/com.example.myapplication E/data_product1_offer: 0
+2022-05-19 04:31:23.991 8763-8763/com.example.myapplication E/data_product1_quantity: 5
+2022-05-19 04:31:23.991 8763-8763/com.example.myapplication E/data_product1_currency: JOD
+2022-05-19 04:31:23.991 8763-8763/com.example.myapplication E/data_product1_preparation_time: 20
+2022-05-19 04:31:23.991 8763-8763/com.example.myapplication E/data_product1_category: Cold starters
+2022-05-19 04:31:23.991 8763-8763/com.example.myapplication E/data_product1_company: gourmet
+2022-05-19 04:31:23.991 8763-8763/com.example.myapplication E/data_product1_company_id: 3
+2022-05-19 04:31:23.991 8763-8763/com.example.myapplication E/data_product1_rate_sum: 0
+2022-05-19 04:31:23.991 8763-8763/com.example.myapplication E/data_product1_rate_sum: 0
+2022-05-19 04:31:23.991 8763-8763/com.example.myapplication E/data_product1_rate: 0
+2022-05-19 04:31:23.992 8763-8763/com.example.myapplication E/data_product1_in_favorite: false
+2022-05-19 04:31:23.992 8763-8763/com.example.myapplication E/data_product1_images: --------------------------
+2022-05-19 04:31:23.992 8763-8763/com.example.myapplication E/data_product1_image1: https://saree3.net/uploads/products/S33ehvc6h0kgQio7WMvq1580991943TPwisvUPeY1WqE2iJVwU.jpg
+2022-05-19 04:31:23.992 8763-8763/com.example.myapplication E/data_product1_image2: https://saree3.net/uploads/products/w02ghaVewJbzB5W7EO2l1580991943aenkEeQyu1dqFPmmSoOA.jpg
+2022-05-19 04:31:23.992 8763-8763/com.example.myapplication E/data_product1_image3: https://saree3.net/uploads/products/XstVcXBJzl93j4oq1yIb1580991953TpczbAs6xn13lgb1K1VA.jpg
+2022-05-19 04:31:23.992 8763-8763/com.example.myapplication E/data_product1_image4: https://saree3.net/uploads/products/XUvNKwpRPWeDZNHq0Iux1580991953odNUFafWXJk2IsxM0xCN.jpg
+2022-05-19 04:31:23.992 8763-8763/com.example.myapplication E/data_product1_image5: https://saree3.net/uploads/products/yw1P5mrPZm4SEgucPpui1580992091NlmKUrFnr2hD25Ov7O6N.jpg
+2022-05-19 04:31:23.992 8763-8763/com.example.myapplication E/data_product1_image6: https://saree3.net/uploads/products/wXD5G5VGKafYJZyQNCk81580992091227lPLPkwkY1JhoHkXd5.jpg
+2022-05-19 04:31:23.992 8763-8763/com.example.myapplication E/data_product0_end: *******************************************
+
+
+2022-05-19 04:31:23.992 8763-8763/com.example.myapplication E/data_product2_start: ********************************************
+2022-05-19 04:31:23.992 8763-8763/com.example.myapplication E/data_product2_id: 7
+2022-05-19 04:31:23.992 8763-8763/com.example.myapplication E/data_product2_name: mutabal
+2022-05-19 04:31:23.992 8763-8763/com.example.myapplication E/data_product2_arabic_name: متبل
+2022-05-19 04:31:23.992 8763-8763/com.example.myapplication E/data_product2_english_name: mutabal
+2022-05-19 04:31:23.992 8763-8763/com.example.myapplication E/data_product2_description: mutabal
+2022-05-19 04:31:23.992 8763-8763/com.example.myapplication E/data_product2_arabic_description: متبل
+2022-05-19 04:31:23.992 8763-8763/com.example.myapplication E/data_product2_english_description: mutabal
+2022-05-19 04:31:23.993 8763-8763/com.example.myapplication E/data_product2_image_url: https://saree3.net/uploads/products/dWlpifEW73RONTV75xd415809925376Iv8fi8HLhhzmndj1MgO.jpg
+2022-05-19 04:31:23.993 8763-8763/com.example.myapplication E/data_product2_price: 1
+2022-05-19 04:31:23.993 8763-8763/com.example.myapplication E/data_product2_offer: 0
+2022-05-19 04:31:23.993 8763-8763/com.example.myapplication E/data_product2_quantity: 5
+2022-05-19 04:31:23.993 8763-8763/com.example.myapplication E/data_product2_currency: JOD
+2022-05-19 04:31:23.993 8763-8763/com.example.myapplication E/data_product2_preparation_time: 20
+2022-05-19 04:31:23.993 8763-8763/com.example.myapplication E/data_product2_category: Cold starters
+2022-05-19 04:31:23.993 8763-8763/com.example.myapplication E/data_product2_company: gourmet
+2022-05-19 04:31:23.993 8763-8763/com.example.myapplication E/data_product2_company_id: 3
+2022-05-19 04:31:23.993 8763-8763/com.example.myapplication E/data_product2_rate_sum: 0
+2022-05-19 04:31:23.993 8763-8763/com.example.myapplication E/data_product2_rate_sum: 0
+2022-05-19 04:31:23.993 8763-8763/com.example.myapplication E/data_product2_rate: 0
+2022-05-19 04:31:23.993 8763-8763/com.example.myapplication E/data_product2_in_favorite: false
+2022-05-19 04:31:23.993 8763-8763/com.example.myapplication E/data_product2_images: --------------------------
+2022-05-19 04:31:23.993 8763-8763/com.example.myapplication E/data_product2_image1: https://saree3.net/uploads/products/tIttIsYG3u1yNhDHbXE01580992537d3Xbnl3IL4e2aers8FNL.jpg
+2022-05-19 04:31:23.994 8763-8763/com.example.myapplication E/data_product2_image2: https://saree3.net/uploads/products/5QJAXEHeCT4OGm6WGx5f15809925372yOc9b4YmU0ypQZcSAdC.jpg
+2022-05-19 04:31:23.994 8763-8763/com.example.myapplication E/data_product2_image3: https://saree3.net/uploads/products/psBodwPLA43dpPh1h0wj1580992537kAilN4FJFNACZ92KPUyG.jpg
+2022-05-19 04:31:23.994 8763-8763/com.example.myapplication E/data_product1_end: *******************************************
+
+
+2022-05-19 04:31:23.994 8763-8763/com.example.myapplication E/data_product3_start: ********************************************
+2022-05-19 04:31:23.994 8763-8763/com.example.myapplication E/data_product3_id: 8
+2022-05-19 04:31:23.994 8763-8763/com.example.myapplication E/data_product3_name: Tabbouleh
+2022-05-19 04:31:23.994 8763-8763/com.example.myapplication E/data_product3_arabic_name: تبولة
+2022-05-19 04:31:23.994 8763-8763/com.example.myapplication E/data_product3_english_name: Tabbouleh
+2022-05-19 04:31:23.994 8763-8763/com.example.myapplication E/data_product3_description: Tabbouleh
+2022-05-19 04:31:23.994 8763-8763/com.example.myapplication E/data_product3_arabic_description: تبولة
+2022-05-19 04:31:23.994 8763-8763/com.example.myapplication E/data_product3_english_description: Tabbouleh
+2022-05-19 04:31:23.994 8763-8763/com.example.myapplication E/data_product3_image_url: https://saree3.net/uploads/products/LdIKHLr2QOtzjGRgPMpk15809926411R4rQjGiRDgjR73wBF3Y.jpg
+2022-05-19 04:31:23.994 8763-8763/com.example.myapplication E/data_product3_price: 1
+2022-05-19 04:31:23.994 8763-8763/com.example.myapplication E/data_product3_offer: 0
+2022-05-19 04:31:23.995 8763-8763/com.example.myapplication E/data_product3_quantity: 5
+2022-05-19 04:31:23.995 8763-8763/com.example.myapplication E/data_product3_currency: JOD
+2022-05-19 04:31:23.995 8763-8763/com.example.myapplication E/data_product3_preparation_time: 20
+2022-05-19 04:31:23.995 8763-8763/com.example.myapplication E/data_product3_category: Cold starters
+2022-05-19 04:31:23.995 8763-8763/com.example.myapplication E/data_product3_company: gourmet
+2022-05-19 04:31:23.995 8763-8763/com.example.myapplication E/data_product3_company_id: 3
+2022-05-19 04:31:23.995 8763-8763/com.example.myapplication E/data_product3_rate_sum: 0
+2022-05-19 04:31:23.995 8763-8763/com.example.myapplication E/data_product3_rate_sum: 0
+2022-05-19 04:31:23.995 8763-8763/com.example.myapplication E/data_product3_rate: 0
+2022-05-19 04:31:23.995 8763-8763/com.example.myapplication E/data_product3_in_favorite: false
+2022-05-19 04:31:23.995 8763-8763/com.example.myapplication E/data_product3_images: --------------------------
+2022-05-19 04:31:23.995 8763-8763/com.example.myapplication E/data_product3_image1: https://saree3.net/uploads/products/rQv57XYbnyfREO4OQ2mL1580992598jYyc33YlTMeHrAQYYRyv.jpg
+2022-05-19 04:31:23.995 8763-8763/com.example.myapplication E/data_product3_image2: https://saree3.net/uploads/products/X8V0ORkyROExJlALs6DM1580992598O5MJZWlS1i5cEudZhRXr.jpg
+2022-05-19 04:31:23.995 8763-8763/com.example.myapplication E/data_product3_image3: https://saree3.net/uploads/products/gpKTKEghCKy8DjG3XE8h1580992598S15y6C1WD70xeZP4vklq.jpg
+2022-05-19 04:31:23.995 8763-8763/com.example.myapplication E/data_product3_image4: https://saree3.net/uploads/products/ph3WzA2POhr9aCroYfr81580992641leGEQTVQsJL0ILrT6np4.jpg
+2022-05-19 04:31:23.996 8763-8763/com.example.myapplication E/data_product3_image5: https://saree3.net/uploads/products/P5JhWlymPmwQOM9RnYba1580992641G9aTcq9ejZMooGgg2Mg3.jpg
+2022-05-19 04:31:23.996 8763-8763/com.example.myapplication E/data_product3_image6: https://saree3.net/uploads/products/2xy0xQwDvxpAOK32KIO71580992641sLxeyaci1RSvj9xUefFz.jpg
+2022-05-19 04:31:23.996 8763-8763/com.example.myapplication E/data_product2_end: *******************************************
+
+
+2022-05-19 04:31:23.996 8763-8763/com.example.myapplication E/data_product4_start: ********************************************
+2022-05-19 04:31:23.996 8763-8763/com.example.myapplication E/data_product4_id: 9
+2022-05-19 04:31:23.996 8763-8763/com.example.myapplication E/data_product4_name: Fattoush
+2022-05-19 04:31:23.996 8763-8763/com.example.myapplication E/data_product4_arabic_name: فتوش
+2022-05-19 04:31:23.996 8763-8763/com.example.myapplication E/data_product4_english_name: Fattoush
+2022-05-19 04:31:23.996 8763-8763/com.example.myapplication E/data_product4_description: Fattoush
+2022-05-19 04:31:23.996 8763-8763/com.example.myapplication E/data_product4_arabic_description: فتوش
+2022-05-19 04:31:23.996 8763-8763/com.example.myapplication E/data_product4_english_description: Fattoush
+2022-05-19 04:31:23.996 8763-8763/com.example.myapplication E/data_product4_image_url: https://saree3.net/uploads/products/IuZeNB6qQCoPB3wHiyAw1580992666W5K2vb43YFd2HdzNFTWw.jpg
+2022-05-19 04:31:23.997 8763-8763/com.example.myapplication E/data_product4_price: 1
+2022-05-19 04:31:23.997 8763-8763/com.example.myapplication E/data_product4_offer: 0
+2022-05-19 04:31:23.997 8763-8763/com.example.myapplication E/data_product4_quantity: 5
+2022-05-19 04:31:23.997 8763-8763/com.example.myapplication E/data_product4_currency: JOD
+2022-05-19 04:31:23.997 8763-8763/com.example.myapplication E/data_product4_preparation_time: 20
+2022-05-19 04:31:23.997 8763-8763/com.example.myapplication E/data_product4_category: Cold starters
+2022-05-19 04:31:23.997 8763-8763/com.example.myapplication E/data_product4_company: gourmet
+2022-05-19 04:31:23.997 8763-8763/com.example.myapplication E/data_product4_company_id: 3
+2022-05-19 04:31:23.997 8763-8763/com.example.myapplication E/data_product4_rate_sum: 0
+2022-05-19 04:31:23.997 8763-8763/com.example.myapplication E/data_product4_rate_sum: 0
+2022-05-19 04:31:23.997 8763-8763/com.example.myapplication E/data_product4_rate: 0
+2022-05-19 04:31:23.997 8763-8763/com.example.myapplication E/data_product4_in_favorite: false
+2022-05-19 04:31:23.997 8763-8763/com.example.myapplication E/data_product4_images: --------------------------
+2022-05-19 04:31:23.997 8763-8763/com.example.myapplication E/data_product4_image1: https://saree3.net/uploads/products/eMYBwiEv0wLf6xOxKunc1580992666W0htZD9Mi1nw0tPybh5f.jpg
+2022-05-19 04:31:23.997 8763-8763/com.example.myapplication E/data_product4_image2: https://saree3.net/uploads/products/KNWmZzYKy3P9WvUPJhF21580992666pSRDzKG8rOSrOhKBm9XT.jpg
+2022-05-19 04:31:23.997 8763-8763/com.example.myapplication E/data_product4_image3: https://saree3.net/uploads/products/cePZ4B0Jpb8FeLMTk4Tp1580992666N6JzxEMLcAsGBVlZaY36.jpg
+2022-05-19 04:31:23.997 8763-8763/com.example.myapplication E/data_product3_end: *******************************************
+
+
+2022-05-19 04:31:23.997 8763-8763/com.example.myapplication E/data_product5_start: ********************************************
+2022-05-19 04:31:23.997 8763-8763/com.example.myapplication E/data_product5_id: 10
+2022-05-19 04:31:23.997 8763-8763/com.example.myapplication E/data_product5_name: labna
+2022-05-19 04:31:23.997 8763-8763/com.example.myapplication E/data_product5_arabic_name: لبنة
+2022-05-19 04:31:23.998 8763-8763/com.example.myapplication E/data_product5_english_name: labna
+2022-05-19 04:31:23.998 8763-8763/com.example.myapplication E/data_product5_description: labna
+2022-05-19 04:31:23.998 8763-8763/com.example.myapplication E/data_product5_arabic_description: لبنة
+2022-05-19 04:31:23.998 8763-8763/com.example.myapplication E/data_product5_english_description: labna
+2022-05-19 04:31:23.998 8763-8763/com.example.myapplication E/data_product5_image_url: https://saree3.net/uploads/products/OQJZNGsIK9jRuHebVkmd1580992734Q6FHz4pOiRKQJTMBz91w.jpg
+2022-05-19 04:31:23.998 8763-8763/com.example.myapplication E/data_product5_price: 1
+2022-05-19 04:31:23.998 8763-8763/com.example.myapplication E/data_product5_offer: 0
+2022-05-19 04:31:23.998 8763-8763/com.example.myapplication E/data_product5_quantity: 5
+2022-05-19 04:31:23.998 8763-8763/com.example.myapplication E/data_product5_currency: JOD
+2022-05-19 04:31:23.998 8763-8763/com.example.myapplication E/data_product5_preparation_time: 20
+2022-05-19 04:31:23.998 8763-8763/com.example.myapplication E/data_product5_category: Cold starters
+2022-05-19 04:31:23.998 8763-8763/com.example.myapplication E/data_product5_company: gourmet
+2022-05-19 04:31:23.998 8763-8763/com.example.myapplication E/data_product5_company_id: 3
+2022-05-19 04:31:23.998 8763-8763/com.example.myapplication E/data_product5_rate_sum: 0
+2022-05-19 04:31:23.998 8763-8763/com.example.myapplication E/data_product5_rate_sum: 0
+2022-05-19 04:31:23.998 8763-8763/com.example.myapplication E/data_product5_rate: 0
+2022-05-19 04:31:23.998 8763-8763/com.example.myapplication E/data_product5_in_favorite: false
+2022-05-19 04:31:23.998 8763-8763/com.example.myapplication E/data_product5_images: --------------------------
+2022-05-19 04:31:23.998 8763-8763/com.example.myapplication E/data_product5_image1: https://saree3.net/uploads/products/q7KasyUzbbTF2jbZoqmN1580992717k6fEJt2mMKHZgyH0XeoX.jpg
+2022-05-19 04:31:23.999 8763-8763/com.example.myapplication E/data_product5_image2: https://saree3.net/uploads/products/OI9MW4uLvoFxuM0qwQuh1580992717ra6z1CZYuCpQC9aGdf3b.jpg
+2022-05-19 04:31:23.999 8763-8763/com.example.myapplication E/data_product5_image3: https://saree3.net/uploads/products/l8gh0BUacCCJNZ8S1MiU15809927177iqXUVWuuLp0I3EWi6TB.jpg
+2022-05-19 04:31:23.999 8763-8763/com.example.myapplication E/data_product5_image4: https://saree3.net/uploads/products/Sf6lMW0fdNy2xS9MCjuZ1580992734vio2rxuzs9VOVhEAky0p.jpg
+2022-05-19 04:31:23.999 8763-8763/com.example.myapplication E/data_product5_image5: https://saree3.net/uploads/products/uopdxFxYdHZ6ObDORMwI1580992734ReTUCYeFKT0sVzdkZZwW.jpg
+2022-05-19 04:31:23.999 8763-8763/com.example.myapplication E/data_product5_image6: https://saree3.net/uploads/products/w63FnuhvxyTVxRiDT7JA1580992734aCK4BnosbY0rETdWEVpe.jpg
+2022-05-19 04:31:23.999 8763-8763/com.example.myapplication E/data_product4_end: *******************************************
+
+
+2022-05-19 04:31:23.999 8763-8763/com.example.myapplication E/data_product6_start: ********************************************
+2022-05-19 04:31:23.999 8763-8763/com.example.myapplication E/data_product6_id: 11
+2022-05-19 04:31:23.999 8763-8763/com.example.myapplication E/data_product6_name: Milk
+2022-05-19 04:31:23.999 8763-8763/com.example.myapplication E/data_product6_arabic_name: لبن
+2022-05-19 04:31:23.999 8763-8763/com.example.myapplication E/data_product6_english_name: Milk
+2022-05-19 04:31:23.999 8763-8763/com.example.myapplication E/data_product6_description: Milk
+2022-05-19 04:31:23.999 8763-8763/com.example.myapplication E/data_product6_arabic_description: لبن
+2022-05-19 04:31:23.999 8763-8763/com.example.myapplication E/data_product6_english_description: Milk
+2022-05-19 04:31:23.999 8763-8763/com.example.myapplication E/data_product6_image_url: https://saree3.net/uploads/products/ZkY3uzHgHUtI3J4YxTgZ1580992853shU09YW69we4vxd90bjS.jpg
+2022-05-19 04:31:24.000 8763-8763/com.example.myapplication E/data_product6_price: 0
+2022-05-19 04:31:24.000 8763-8763/com.example.myapplication E/data_product6_offer: 0
+2022-05-19 04:31:24.000 8763-8763/com.example.myapplication E/data_product6_quantity: 5
+2022-05-19 04:31:24.000 8763-8763/com.example.myapplication E/data_product6_currency: JOD
+2022-05-19 04:31:24.000 8763-8763/com.example.myapplication E/data_product6_preparation_time: 20
+2022-05-19 04:31:24.000 8763-8763/com.example.myapplication E/data_product6_category: Cold starters
+2022-05-19 04:31:24.000 8763-8763/com.example.myapplication E/data_product6_company: gourmet
+2022-05-19 04:31:24.000 8763-8763/com.example.myapplication E/data_product6_company_id: 3
+2022-05-19 04:31:24.000 8763-8763/com.example.myapplication E/data_product6_rate_sum: 0
+2022-05-19 04:31:24.000 8763-8763/com.example.myapplication E/data_product6_rate_sum: 0
+2022-05-19 04:31:24.000 8763-8763/com.example.myapplication E/data_product6_rate: 0
+2022-05-19 04:31:24.000 8763-8763/com.example.myapplication E/data_product6_in_favorite: false
+2022-05-19 04:31:24.000 8763-8763/com.example.myapplication E/data_product6_images: --------------------------
+2022-05-19 04:31:24.001 8763-8763/com.example.myapplication E/data_product6_image1: https://saree3.net/uploads/products/hBMeyCebkStid3k9iSdo1580992789mQpHnBihwlBSiO7jXQvQ.jpg
+2022-05-19 04:31:24.001 8763-8763/com.example.myapplication E/data_product6_image2: https://saree3.net/uploads/products/5IRhLxkWn2orCS8CBRAf1580992789OOOn12EuWiRDuzil8bRe.jpg
+2022-05-19 04:31:24.001 8763-8763/com.example.myapplication E/data_product6_image3: https://saree3.net/uploads/products/WB8Xox5P5eLsEjyhr4Mj1580992789XG9ys4855zXGP9vkGJit.jpg
+2022-05-19 04:31:24.001 8763-8763/com.example.myapplication E/data_product6_image4: https://saree3.net/uploads/products/YWYMARhUzHFQ6YjgxSYG1580992853gR6Azmqj7IPdcacaLDxF.jpg
+2022-05-19 04:31:24.001 8763-8763/com.example.myapplication E/data_product6_image5: https://saree3.net/uploads/products/pt5ZxaqUEb3GvRyvqOfi1580992853RyTshKXPS66uVK5lzoB1.jpg
+2022-05-19 04:31:24.001 8763-8763/com.example.myapplication E/data_product6_image6: https://saree3.net/uploads/products/CVR5Yul9s1nDR65G4sIw15809928533kJ1AFZVd61p8gOcrvRB.jpg
+2022-05-19 04:31:24.001 8763-8763/com.example.myapplication E/data_product5_end: *******************************************
+
+
+2022-05-19 04:31:24.001 8763-8763/com.example.myapplication E/data_product7_start: ********************************************
+2022-05-19 04:31:24.001 8763-8763/com.example.myapplication E/data_product7_id: 12
+2022-05-19 04:31:24.001 8763-8763/com.example.myapplication E/data_product7_name: Service (mixed vegetables and pickles)
+2022-05-19 04:31:24.001 8763-8763/com.example.myapplication E/data_product7_arabic_name: سرفيس (خضار ومخللات مشكلة )
+2022-05-19 04:31:24.001 8763-8763/com.example.myapplication E/data_product7_english_name: Service (mixed vegetables and pickles)
+2022-05-19 04:31:24.001 8763-8763/com.example.myapplication E/data_product7_description: Service (mixed vegetables and pickles)
+2022-05-19 04:31:24.001 8763-8763/com.example.myapplication E/data_product7_arabic_description: سرفيس (خضار ومخللات مشكلة )
+2022-05-19 04:31:24.001 8763-8763/com.example.myapplication E/data_product7_english_description: Service (mixed vegetables and pickles)
+2022-05-19 04:31:24.001 8763-8763/com.example.myapplication E/data_product7_image_url: https://saree3.net/uploads/products/jHSACdDut7d0ljMR3VJq1580992873nLoahnnl2Mc8TUkSgGZP.jpg
+2022-05-19 04:31:24.001 8763-8763/com.example.myapplication E/data_product7_price: 0
+2022-05-19 04:31:24.001 8763-8763/com.example.myapplication E/data_product7_offer: 0
+2022-05-19 04:31:24.001 8763-8763/com.example.myapplication E/data_product7_quantity: 5
+2022-05-19 04:31:24.001 8763-8763/com.example.myapplication E/data_product7_currency: JOD
+2022-05-19 04:31:24.002 8763-8763/com.example.myapplication E/data_product7_preparation_time: 20
+2022-05-19 04:31:24.002 8763-8763/com.example.myapplication E/data_product7_category: Cold starters
+2022-05-19 04:31:24.002 8763-8763/com.example.myapplication E/data_product7_company: gourmet
+2022-05-19 04:31:24.002 8763-8763/com.example.myapplication E/data_product7_company_id: 3
+2022-05-19 04:31:24.002 8763-8763/com.example.myapplication E/data_product7_rate_sum: 0
+2022-05-19 04:31:24.002 8763-8763/com.example.myapplication E/data_product7_rate_sum: 0
+2022-05-19 04:31:24.002 8763-8763/com.example.myapplication E/data_product7_rate: 0
+2022-05-19 04:31:24.002 8763-8763/com.example.myapplication E/data_product7_in_favorite: false
+2022-05-19 04:31:24.002 8763-8763/com.example.myapplication E/data_product7_images: --------------------------
+2022-05-19 04:31:24.002 8763-8763/com.example.myapplication E/data_product7_image1: https://saree3.net/uploads/products/qC9KQqgIr32W1VgKhEZB15809928738vVtPbryztLIfyDX0adR.jpg
+2022-05-19 04:31:24.002 8763-8763/com.example.myapplication E/data_product7_image2: https://saree3.net/uploads/products/QzBIfCrtJOztLlDLeJnY1580992873LV8z4pgZzxtyPoHtBUbO.jpg
+2022-05-19 04:31:24.002 8763-8763/com.example.myapplication E/data_product7_image3: https://saree3.net/uploads/products/V7ReYvcjFJMArwNpGoMA1580992873VZsKKbw5gGBjjIxsLyBL.jpg
+2022-05-19 04:31:24.002 8763-8763/com.example.myapplication E/data_product6_end: *******************************************
+2022-05-19 04:31:24.003 8763-8763/com.example.myapplication E/data_product8_start: ********************************************
+2022-05-19 04:31:24.003 8763-8763/com.example.myapplication E/data_product8_id: 13
+2022-05-19 04:31:24.003 8763-8763/com.example.myapplication E/data_product8_name: (Fried kebbeh and assortment of samosa (6 piece
+2022-05-19 04:31:24.003 8763-8763/com.example.myapplication E/data_product8_arabic_name: كبة مقلية وتشكيلة من السمبوسك (6 قطع)
+2022-05-19 04:31:24.003 8763-8763/com.example.myapplication E/data_product8_english_name: (Fried kebbeh and assortment of samosa (6 piece
+2022-05-19 04:31:24.003 8763-8763/com.example.myapplication E/data_product8_description: (Fried kebbeh and assortment of samosa (6 piece
+2022-05-19 04:31:24.003 8763-8763/com.example.myapplication E/data_product8_arabic_description: كبة مقلية وتشكيلة من السمبوسك (6 قطع)
+2022-05-19 04:31:24.003 8763-8763/com.example.myapplication E/data_product8_english_description: (Fried kebbeh and assortment of samosa (6 piece
+2022-05-19 04:31:24.003 8763-8763/com.example.myapplication E/data_product8_image_url: https://saree3.net/uploads/products/f9Axag2z6wsoOHn6SrwF158099309759PYezyHRLYVDPdzTRkV.jpg
+2022-05-19 04:31:24.003 8763-8763/com.example.myapplication E/data_product8_price: 2
+2022-05-19 04:31:24.003 8763-8763/com.example.myapplication E/data_product8_offer: 0
+2022-05-19 04:31:24.003 8763-8763/com.example.myapplication E/data_product8_quantity: 5
+2022-05-19 04:31:24.003 8763-8763/com.example.myapplication E/data_product8_currency: JOD
+2022-05-19 04:31:24.003 8763-8763/com.example.myapplication E/data_product8_preparation_time: 20
+2022-05-19 04:31:24.003 8763-8763/com.example.myapplication E/data_product8_category: Hot starters
+2022-05-19 04:31:24.003 8763-8763/com.example.myapplication E/data_product8_company: gourmet
+2022-05-19 04:31:24.003 8763-8763/com.example.myapplication E/data_product8_company_id: 3
+2022-05-19 04:31:24.003 8763-8763/com.example.myapplication E/data_product8_rate_sum: 0
+2022-05-19 04:31:24.004 8763-8763/com.example.myapplication E/data_product8_rate_sum: 0
+2022-05-19 04:31:24.004 8763-8763/com.example.myapplication E/data_product8_rate: 0
+2022-05-19 04:31:24.004 8763-8763/com.example.myapplication E/data_product8_in_favorite: false
+2022-05-19 04:31:24.004 8763-8763/com.example.myapplication E/data_product8_images: --------------------------
+2022-05-19 04:31:24.004 8763-8763/com.example.myapplication E/data_product8_image1: https://saree3.net/uploads/products/OprTaqhtwA0Zmg2cd5SC1580993097CxHfVy4wq27zIpF1VRmV.jpg
+2022-05-19 04:31:24.004 8763-8763/com.example.myapplication E/data_product7_end: *******************************************
+
+
+2022-05-19 04:31:24.004 8763-8763/com.example.myapplication E/data_product9_start: ********************************************
+2022-05-19 04:31:24.004 8763-8763/com.example.myapplication E/data_product9_id: 14
+2022-05-19 04:31:24.004 8763-8763/com.example.myapplication E/data_product9_name: (Fried Kebbeh (1 Piece
+2022-05-19 04:31:24.004 8763-8763/com.example.myapplication E/data_product9_arabic_name: كبة مقلية (١ قطعة)
+2022-05-19 04:31:24.004 8763-8763/com.example.myapplication E/data_product9_english_name: (Fried Kebbeh (1 Piece
+2022-05-19 04:31:24.004 8763-8763/com.example.myapplication E/data_product9_description: (Fried Kebbeh (1 Piece
+2022-05-19 04:31:24.004 8763-8763/com.example.myapplication E/data_product9_arabic_description: كبة مقلية (١ قطعة)
+2022-05-19 04:31:24.004 8763-8763/com.example.myapplication E/data_product9_english_description: (Fried Kebbeh (1 Piece
+2022-05-19 04:31:24.004 8763-8763/com.example.myapplication E/data_product9_image_url: https://saree3.net/uploads/products/q0aJvVpZd3K4OflGCWFQ1580993144mcjIcBnZN1Zy7n4SJxvf.jpg
+2022-05-19 04:31:24.005 8763-8763/com.example.myapplication E/data_product9_price: 0
+2022-05-19 04:31:24.005 8763-8763/com.example.myapplication E/data_product9_offer: 0
+2022-05-19 04:31:24.005 8763-8763/com.example.myapplication E/data_product9_quantity: 5
+2022-05-19 04:31:24.005 8763-8763/com.example.myapplication E/data_product9_currency: JOD
+2022-05-19 04:31:24.005 8763-8763/com.example.myapplication E/data_product9_preparation time: 20
+2022-05-19 04:31:24.005 8763-8763/com.example.myapplication E/data_product9_category: Hot starters
+2022-05-19 04:31:24.005 8763-8763/com.example.myapplication E/data_product9_company: gourmet
+2022-05-19 04:31:24.005 8763-8763/com.example.myapplication E/data_product9_company_id: 3
+2022-05-19 04:31:24.005 8763-8763/com.example.myapplication E/data_product9_rate_sum: 0
+2022-05-19 04:31:24.005 8763-8763/com.example.myapplication E/data_product9_rate_sum: 0
+2022-05-19 04:31:24.005 8763-8763/com.example.myapplication E/data_product9_rate: 0
+2022-05-19 04:31:24.005 8763-8763/com.example.myapplication E/data_product9_in_favorite: false
+2022-05-19 04:31:24.005 8763-8763/com.example.myapplication E/data_product9_images: --------------------------
+2022-05-19 04:31:24.005 8763-8763/com.example.myapplication E/data_product9_image1: https://saree3.net/uploads/products/LhGEWORV0kPPkKLj4d9t1580993144a3dKjxRuR4AMhVsj3geT.jpg
+2022-05-19 04:31:24.005 8763-8763/com.example.myapplication E/data_product9_image2: https://saree3.net/uploads/products/9PGOlhwLmzjdMaf0lJOw1580993144oO1gPyAq6jMq5Swtd3PD.jpg
+2022-05-19 04:31:24.005 8763-8763/com.example.myapplication E/data_product9_image3: https://saree3.net/uploads/products/ZXsusZBbzzMbJXsyb3OS1580993144ls91orps1Lt1rxoWwwmW.jpg
+2022-05-19 04:31:24.005 8763-8763/com.example.myapplication E/data_product8_end: *******************************************
+
+
+2022-05-19 04:31:24.005 8763-8763/com.example.myapplication E/data_product10_start: ********************************************
+2022-05-19 04:31:24.006 8763-8763/com.example.myapplication E/data_product10_id: 15
+2022-05-19 04:31:24.006 8763-8763/com.example.myapplication E/data_product10_name: (Fried Sambousek (1 Piece
+2022-05-19 04:31:24.006 8763-8763/com.example.myapplication E/data_product10_arabic_name: سمبوسك مقلية(١ قطعة)
+2022-05-19 04:31:24.006 8763-8763/com.example.myapplication E/data_product10_english_name: (Fried Sambousek (1 Piece
+2022-05-19 04:31:24.006 8763-8763/com.example.myapplication E/data_product10_description: (Fried Sambousek (1 Piece
+2022-05-19 04:31:24.006 8763-8763/com.example.myapplication E/data_product10_arabic_description: سمبوسك مقلية(١ قطعة)
+2022-05-19 04:31:24.006 8763-8763/com.example.myapplication E/data_product10_english_description: (Fried Sambousek (1 Piece
+2022-05-19 04:31:24.006 8763-8763/com.example.myapplication E/data_product10_image_url: https://saree3.net/uploads/products/ejwHEm52caLva74EgdL31580993198yVUpybuGwJGP6FgIrpPv.jpg
+2022-05-19 04:31:24.006 8763-8763/com.example.myapplication E/data_product10_price: 0
+2022-05-19 04:31:24.006 8763-8763/com.example.myapplication E/data_product10_offer: 0
+2022-05-19 04:31:24.006 8763-8763/com.example.myapplication E/data_product10_quantity: 5
+2022-05-19 04:31:24.006 8763-8763/com.example.myapplication E/data_product10_currency: JOD
+2022-05-19 04:31:24.006 8763-8763/com.example.myapplication E/data_product10_preparation_time: 20
+2022-05-19 04:31:24.007 8763-8763/com.example.myapplication E/data_product10_category: Hot starters
+2022-05-19 04:31:24.007 8763-8763/com.example.myapplication E/data_product10_company: gourmet
+2022-05-19 04:31:24.007 8763-8763/com.example.myapplication E/data_product10_company_id: 3
+2022-05-19 04:31:24.007 8763-8763/com.example.myapplication E/data_product10_rate_sum: 0
+2022-05-19 04:31:24.007 8763-8763/com.example.myapplication E/data_product10_rate_sum: 0
+2022-05-19 04:31:24.007 8763-8763/com.example.myapplication E/data_product10_rate: 0
+2022-05-19 04:31:24.007 8763-8763/com.example.myapplication E/data_product10_in_favorite: false
+2022-05-19 04:31:24.007 8763-8763/com.example.myapplication E/data_product10_images: --------------------------
+2022-05-19 04:31:24.007 8763-8763/com.example.myapplication E/data_product10_image1: https://saree3.net/uploads/products/ejzDwPp9aYkoBsOGCFhO1580993198twpmYOmdkdfMIOLRoPH0.jpg
+2022-05-19 04:31:24.007 8763-8763/com.example.myapplication E/data_product10_image2: https://saree3.net/uploads/products/57FTE3vpnY7DchDjbYpf1580993198QkGAVhHu6nF3hCzvxtrT.jpg
+2022-05-19 04:31:24.007 8763-8763/com.example.myapplication E/data_product10_image3: https://saree3.net/uploads/products/1peAnlI36F86qBdG0Dl61580993198PQnxd2MIqdRBzld4VZE4.jpg
+2022-05-19 04:31:24.007 8763-8763/com.example.myapplication E/data_product9_end: *******************************************
+
+
+2022-05-19 04:31:24.007 8763-8763/com.example.myapplication E/data_Pagination_Options: =================================================
+2022-05-19 04:31:24.007 8763-8763/com.example.myapplication E/data_Pagination_current_page: 1
+2022-05-19 04:31:24.007 8763-8763/com.example.myapplication E/data_Pagination_next_page_url: https://saree3.net/api/user/products?page=2&
+2022-05-19 04:31:24.008 8763-8763/com.example.myapplication E/data_Pagination_previous_page_url: null
+2022-05-19 04:31:24.008 8763-8763/com.example.myapplication E/data_Pagination_first_page: true
+2022-05-19 04:31:24.008 8763-8763/com.example.myapplication E/data_Pagination_last_page: 856
+2022-05-19 04:31:24.008 8763-8763/com.example.myapplication E/data_Pagination_count: 10
+2022-05-19 04:31:24.008 8763-8763/com.example.myapplication E/data_Pagination_per_page: 10
+2022-05-19 04:31:24.008 8763-8763/com.example.myapplication E/data_Pagination_total: 8553
